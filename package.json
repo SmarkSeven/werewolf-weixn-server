@@ -1,0 +1,19 @@
+{
+  "name": "werewolf",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {},
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "body-parser": "^1.17.1",
+    "express": "^4.15.2",
+    "express-xml-bodyparser": "^0.3.0",
+    "jssha": "^2.2.0",
+    "leancloud-storage": "^2.2.1",
+    "multer": "^1.3.0",
+    "request": "^2.81.0",
+    "winston": "^2.3.1"
+  }
+}
